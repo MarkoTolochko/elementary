@@ -10,6 +10,7 @@
 *.sar
 *.class
 *.iml
+*.idea
 
-.idea
+/.idea/
 out
